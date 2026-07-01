@@ -11,6 +11,10 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%26+Django+REST+Framework;Designing+and+building+REST+APIs;Self-taught+%26+always+learning)](https://nimashadloo.dev)
+
+<br/>
+
 [![Website](https://img.shields.io/badge/Website-nimashadloo.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nimashadloo.dev)
 [![Email](https://img.shields.io/badge/Email-Contact-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nima.shadloo.mail@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-NimaShadloo-2ac3de?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NimaShadloo)
@@ -19,6 +23,8 @@ Self-taught developer and Computer Engineering student.
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +43,8 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -52,6 +60,8 @@ Self-taught developer and Computer Engineering student.
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
 
 ## 🐍 Contribution Snake
 
