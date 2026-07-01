@@ -62,11 +62,3 @@ Self-taught developer and Computer Engineering student.
 <img src="https://raw.githubusercontent.com/n-shadloo/n-shadloo/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer" width="100%" alt="footer"/>
-
-</div>
