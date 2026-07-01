@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Nima%20Shadloo&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Nima%20Shadloo&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=40" width="100%" alt="banner"/>
 
 ### Backend Developer working with Django and Django REST Framework
 Self-taught developer and Computer Engineering student.
@@ -73,6 +73,6 @@ Self-taught developer and Computer Engineering student.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
