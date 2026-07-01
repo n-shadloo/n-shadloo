@@ -49,7 +49,7 @@ Self-taught developer and Computer Engineering student.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=n-shadloo&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
 
 <br/>
 
