@@ -24,7 +24,7 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:414868&height=3&section=header" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:414868&height=3&section=header" width="100%" alt="divider"/>
 
 ## 📊 GitHub Stats
 
@@ -59,7 +59,7 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:414868&height=3&section=header" width="100%" alt="divider"/>
 
 ## 🐍 Contribution Snake
 
