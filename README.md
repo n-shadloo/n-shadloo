@@ -26,7 +26,7 @@ Self-taught developer and Computer Engineering student.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:414868&height=3&section=header" width="100%" alt="divider"/>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Self-taught developer and Computer Engineering student.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:414868&height=3&section=header" width="100%" alt="divider"/>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Self-taught developer and Computer Engineering student.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:414868&height=3&section=header" width="100%" alt="divider"/>
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
