@@ -49,19 +49,11 @@ Self-taught developer and Computer Engineering student.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=n-shadloo&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/n-shadloo?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27)
-![Stars](https://img.shields.io/github/stars/n-shadloo?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27)
-
-<br/>
-<br/>
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=n-shadloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="top languages"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=n-shadloo&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=n-shadloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="top languages"/>
 
 </div>
 
