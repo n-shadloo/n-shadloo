@@ -24,7 +24,7 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Self-taught developer and Computer Engineering student.
 
 <br/>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
