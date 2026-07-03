@@ -45,11 +45,11 @@ Self-taught developer and Computer Engineering student.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sable-three-77.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
+<img src="https://github-readme-stats-sable-three-77.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&card_width=450" alt="stats"/>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats-sable-three-77.vercel.app/api/top-langs/?username=n-shadloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&v=1" alt="top languages"/>
+<img src="https://github-readme-stats-sable-three-77.vercel.app/api/top-langs/?username=n-shadloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&card_width=450&v=2" alt="top languages"/>
 
 </div>
 
