@@ -45,7 +45,7 @@ Self-taught developer and Computer Engineering student.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sable-three-77.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&hide=prs,issues,contribs" alt="stats"/>
+<img src="https://github-readme-stats-sable-three-77.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
 
 <br/>
 
