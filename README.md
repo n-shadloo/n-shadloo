@@ -1,53 +1,51 @@
-<div align="center">
+<a href="https://nimashadloo.dev"><img src="assets/banner.svg" width="100%" alt="Nima Shadloo — Backend developer"></a>
 
-[![banner](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Nima%20Shadloo&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=50)](https://nimashadloo.dev)
+Backend developer working with Django and FastAPI. Co-founder of **Orviniq**, where I lead product and system architecture. B.Sc. Computer Engineering student at the University of Guilan.
 
-### Backend Developer — Django, DRF, and system architecture
+### Selected work
 
-Co-founder of **Orviniq** · Self-taught developer · Computer Engineering student
+Agent Skills that help AI coding tools follow production-grade Django practice.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%26+System+Architect;Django+%26+Django+REST+Framework;FastAPI+%7C+Celery+%7C+PostgreSQL;Designing+and+building+REST+APIs;Self-taught+%26+always+learning)](https://nimashadloo.dev)
+- **[secure-code-auditor](https://github.com/n-shadloo/secure-code-auditor)** — security review for Django and DRF code
+- **[git-authoring](https://github.com/n-shadloo/git-authoring)** — commit messages, pull requests, and release notes from your changes
+- **[frontend-production-engineer](https://github.com/n-shadloo/frontend-production-engineer)** — Next.js and TypeScript frontends on a Django backend
 
-[![Website](https://img.shields.io/badge/Website-nimashadloo.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nimashadloo.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nima.shadloo.mail@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-NimaShadloo-2ac3de?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NimaShadloo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nima%20Shadloo-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-shadloo)
+### Stack
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0C2048?style=for-the-badge&logo=python&logoColor=C9A86A" alt="Python">
+  <img src="https://img.shields.io/badge/Django-0C2048?style=for-the-badge&logo=django&logoColor=C9A86A" alt="Django">
+  <img src="https://img.shields.io/badge/DRF-0C2048?style=for-the-badge&logo=django&logoColor=C9A86A" alt="DRF">
+  <img src="https://img.shields.io/badge/FastAPI-0C2048?style=for-the-badge&logo=fastapi&logoColor=C9A86A" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Celery-0C2048?style=for-the-badge&logo=celery&logoColor=C9A86A" alt="Celery">
+</p>
 
-## 🚀 Work
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0C2048?style=for-the-badge&logo=postgresql&logoColor=C9A86A" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-0C2048?style=for-the-badge&logo=redis&logoColor=C9A86A" alt="Redis">
+  <img src="https://img.shields.io/badge/SQLite-0C2048?style=for-the-badge&logo=sqlite&logoColor=C9A86A" alt="SQLite">
+</p>
 
-**Agent Skills for Django engineering** — a suite of skills that encode production
-practice for Django and DRF, so an agent applies the same standards a senior engineer
-would: security review, API contracts, migration safety, and background job correctness.
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0C2048?style=for-the-badge&logo=docker&logoColor=C9A86A" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-0C2048?style=for-the-badge&logo=nginx&logoColor=C9A86A" alt="Nginx">
+  <img src="https://img.shields.io/badge/Gunicorn-0C2048?style=for-the-badge&logo=gunicorn&logoColor=C9A86A" alt="Gunicorn">
+  <img src="https://img.shields.io/badge/Uvicorn-0C2048?style=for-the-badge" alt="Uvicorn">
+  <img src="https://img.shields.io/badge/Linux-0C2048?style=for-the-badge&logo=linux&logoColor=C9A86A" alt="Linux">
+</p>
 
-- **[secure-code-auditor](https://github.com/n-shadloo/secure-code-auditor)** — Django/DRF security auditing on an OWASP Top 10, API Security Top 10, and ASVS foundation
-- **[frontend-production-engineer](https://github.com/n-shadloo/frontend-production-engineer)** — Next.js, React, and TypeScript against a Django + DRF backend
-- **[git-authoring](https://github.com/n-shadloo/git-authoring)** — Conventional Commits, pull requests, release notes, and everyday git operations
+### Activity
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats-sable-three-77.vercel.app/api?username=n-shadloo&show_icons=true&include_all_commits=true&count_private=true&card_width=495&bg_color=071530&title_color=E6D3A3&icon_color=C9A86A&text_color=A9B8D3&border_color=1B3366&border_radius=14&hide_border=false" width="49%" alt="GitHub stats">
+  <img src="https://github-readme-stats-sable-three-77.vercel.app/api/top-langs/?username=n-shadloo&layout=compact&langs_count=8&card_width=495&bg_color=071530&title_color=E6D3A3&icon_color=C9A86A&text_color=A9B8D3&border_color=1B3366&border_radius=14&hide_border=false" width="49%" alt="Top languages">
+</p>
 
-|  |  |
-| :--- | :--- |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) |
-| **Data & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Deployment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-2F9E44?style=for-the-badge&logo=uvicorn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+### Contact
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![stats](https://github-readme-stats-sable-three-77.vercel.app/api?username=n-shadloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&card_width=450)](https://github.com/n-shadloo)
-
-[![top languages](https://github-readme-stats-sable-three-77.vercel.app/api/top-langs/?username=n-shadloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&card_width=450&v=2)](https://github.com/n-shadloo)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/n-shadloo/n-shadloo/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <a href="https://nimashadloo.dev"><img src="https://img.shields.io/badge/Website-0C2048?style=for-the-badge&logoColor=C9A86A&logo=googlechrome" alt="Website"></a>
+  <a href="mailto:nima.shadloo.mail@gmail.com"><img src="https://img.shields.io/badge/Email-0C2048?style=for-the-badge&logoColor=C9A86A&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nima-shadloo"><img src="https://img.shields.io/badge/LinkedIn-0C2048?style=for-the-badge&logoColor=C9A86A&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0M5QTg2QSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
+  <a href="https://t.me/NimaShadloo"><img src="https://img.shields.io/badge/Telegram-0C2048?style=for-the-badge&logoColor=C9A86A&logo=telegram" alt="Telegram"></a>
+</p>
